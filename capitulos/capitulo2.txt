@@ -1,0 +1,3 @@
+Capítulo 2: Trabalhando com Branches
+
+Branches permitem o desenvolvimento de funcionalidades de forma isolada.
