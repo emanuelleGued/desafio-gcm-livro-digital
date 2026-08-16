@@ -1,7 +1,3 @@
-Capítulo 1: Introdução ao Git Hub 
+Capítulo 2: Trabalhando com Branches
 
-O Git é um sistema de controle de versão distribuído moderno e eficiente.
-Ele permite rastrear mudanças no código de forma segura.
-O comando principal para salvar mudanças no histórico é o git commit.
-Sempre utilize mensagens claras e objetivas em seus commits!
-Lembre-se: o histórico é a documentação viva do seu projeto.
+Branches permitem o desenvolvimento de funcionalidades de forma isolada.
