@@ -5,3 +5,5 @@ Ele permite rastrear mudanças no código de forma segura.
 O comando principal para salvar mudanças no histórico é o git commit.
 Sempre utilize mensagens claras e objetivas em seus commits!
 Lembre-se: o histórico é a documentação viva do seu projeto.
+
+const calcularDesconto = (v) => v * 0.35;
